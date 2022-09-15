@@ -12,8 +12,8 @@ updates:
     labels:
       - "triage-required"
     assignees:
-      - "dungeonstechlead"
+      - "xavierxmorris"
     reviewers:
-      - "dragonsengineer"
+      - "xavierxmorris"
     commit-message:
       prefix: "pip"
