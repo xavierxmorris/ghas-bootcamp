@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "axios": "0.18.0",
-    "bootstrap-vue": "2.0.0-rc.11",
+    "bootstrap-vue": "2.0.0",
     "core-js": "^3.6.5",
     "less": "^3.12.2",
     "less-loader": "^7.0.2",
     "uikit": "^3.5.9",
     "vue": "2.5.13",
-    "vue-instantsearch": "2.7.0",
+    "vue-instantsearch": "3.0.3",
     "vue-router": "^3.4.7",
     "vuex": "^3.5.1",
     "vuikit": "^0.8.10"
